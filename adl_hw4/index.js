@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'To Sherlock Holmes she is always THE woman.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings.'      
 };
 
 function status(statusText) {
