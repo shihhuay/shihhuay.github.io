@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'To Sherlock Holmes she is always THE woman.',
   'example2':
-      'YOU don't know about me without you have read a book by the name of The Adventures of Tom Sawyer; but that ain't no matter.',
+      'YOU dont know about me without you have read a book by the name of The Adventures of Tom Sawyer; but that aint no matter.',
   'example3':
       'You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings.'      
 };
